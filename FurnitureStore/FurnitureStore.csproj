@@ -191,6 +191,7 @@
     <Content Include="Content\extjs\icons\buy.png" />
     <Content Include="Content\extjs\icons\delete.gif" />
     <Content Include="Content\extjs\icons\edit.png" />
+    <Content Include="Content\script.sql" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
