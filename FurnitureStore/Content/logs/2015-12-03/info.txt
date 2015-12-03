@@ -568,3 +568,116 @@ Upgrade-Insecure-Requests: 1
 2015-12-03 14:30:26.2033|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
 2015-12-03 14:30:31.3336|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
 2015-12-03 14:30:39.9961|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 16:08:44.4656|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 16:08:51.3440|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 16:09:03.3657|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 19:05:17.5925|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 19:05:19.5886|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 19:05:30.3312|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 19:05:33.5314|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 19:05:35.3485|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 19:05:35.6926|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 19:05:35.8426|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 19:05:36.0066|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 19:05:36.1516|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 19:09:02.9414|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 22:12:02.4764|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:12:13.6860|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:12:13.6860|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 22:12:20.2844|INFO|FurnitureStore.Models.CartRepository|Unpayed cart successfully have been get!
+2015-12-03 22:12:20.2844|INFO|FurnitureStore.Models.GoodsRepository|Got goods successfully!
+2015-12-03 22:12:31.0450|INFO|FurnitureStore.Models.CartRepository|Unpayed cart successfully have been get!
+2015-12-03 22:12:31.0550|INFO|FurnitureStore.Models.GoodsRepository|Got goods successfully!
+2015-12-03 22:13:54.8848|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:13:56.9409|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 22:19:22.5766|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 22:19:31.6401|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 22:20:08.2182|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:20:13.6755|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:20:13.6755|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 22:20:37.2258|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:20:41.6081|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 22:20:45.6043|INFO|FurnitureStore.Models.RoleRepository|Role removed successfully!
+2015-12-03 22:20:45.6143|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 22:20:48.8265|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:20:54.0188|INFO|FurnitureStore.Models.RoleRepository|DB save was successfull!
+2015-12-03 22:20:54.0188|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 22:21:01.1412|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:21:26.1306|INFO|FurnitureStore.Models.RoleRepository|e7861a7e-01de-46d5-a19c-06cea7035202 | VIP Customer | 01.12.2015 0:00:00
+2015-12-03 22:21:26.1406|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-03 22:21:26.1406|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 22:21:37.6263|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 22:21:41.4445|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 22:21:45.3727|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 22:21:49.0229|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 22:39:24.1183|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:43:17.2276|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:45:42.4029|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:53:31.4698|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 22:56:48.5880|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:00:45.3786|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:02:28.3225|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:03:20.2404|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:03:23.8596|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:05:34.8941|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:07:34.6660|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:08:14.6403|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:09:02.4970|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:09:06.7863|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:09:25.1233|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:10:09.1978|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:10:50.0772|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:10:53.5814|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:11:37.2059|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:14:24.9685|INFO|FurnitureStore.MvcApplication|Application End
+2015-12-03 23:14:29.7327|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:14:39.9213|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 23:15:40.2528|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:16:57.2782|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:17:22.3886|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:17:57.6656|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:18:36.9549|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:19:17.1022|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:21:34.0990|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:22:57.4898|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:33:47.6560|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 23:33:52.5992|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:35:25.0795|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:35:59.1355|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:36:14.1063|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:37:16.2319|INFO|FurnitureStore.MvcApplication|Application End
+2015-12-03 23:38:17.5644|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:38:40.4317|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:39:27.8274|INFO|FurnitureStore.MvcApplication|Application End
+2015-12-03 23:40:50.7372|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:41:32.2395|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:42:18.0372|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:43:03.3377|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:43:49.3384|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:43:52.0545|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 23:43:54.4867|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:47:53.7404|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:48:38.6349|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:48:45.8303|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:48:50.0576|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 23:48:57.5620|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 23:49:04.3924|INFO|FurnitureStore.Models.RoleRepository|DB save was successfull!
+2015-12-03 23:49:04.3924|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:49:56.3904|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:50:16.6015|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:50:34.6106|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:52:11.5041|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:52:47.5442|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:52:59.3838|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:53:23.0622|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 23:53:23.0622|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:54:31.6581|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 23:54:31.6581|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:55:42.8552|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 23:55:42.8552|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:55:55.1799|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:56:22.3414|INFO|FurnitureStore.MvcApplication|Application End
+2015-12-03 23:56:26.0907|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 23:56:28.4188|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 23:56:34.0201|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 23:56:34.0201|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!

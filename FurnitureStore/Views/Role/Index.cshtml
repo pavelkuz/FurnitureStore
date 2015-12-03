@@ -2,25 +2,108 @@
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-<a href="@Url.Action("Logout", "Home")">Logout</a>
-@*@model IList<FurnitureStore.Models.Role>*@
 @model FurnitureStore.Models.Utils.JsonPresenter
-<body>
-    <div id="create"></div>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Roles</title>
+</head>
+<body id="ext-gen1018" class="x-body x-webkit x-chrome x-reset">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <div class="x-panel x-panel-default" style="height:700px;" id="panel-1009">
+        <div class="x-panel-header x-docked x-panel-header-default x-horizontal x-panel-header-horizontal x-panel-header-default-horizontal x-top x-panel-header-top x-panel-header-default-top x-docked-top x-panel-header-docked-top x-panel-header-default-docked-top x-unselectable" id="panel-1009_header" style="-webkit-user-select: none; width: 1903px;">
+            <div id="panel-1009_header-body" class="x-panel-header-body x-panel-header-body-default x-panel-header-body-horizontal x-panel-header-body-default-horizontal x-panel-header-body-top x-panel-header-body-default-top x-panel-header-body-docked-top x-panel-header-body-default-docked-top x-panel-header-body-default-horizontal x-panel-header-body-default-top x-panel-header-body-default-docked-top x-box-layout-ct" style="width: 1891px;">
+                <div id="panel-1009_header-innerCt" class="x-box-inner " role="presentation" style="width: 1891px; height: 16px;">
+                    <div id="panel-1009_header-targetEl" style="position: absolute; width: 1891px; left: 0px; top: 0px; height: 1px;">
+                        <div class="x-component x-panel-header-text-container x-box-item x-component-default" style="text-align: left; left: 0px; top: 0px; margin: 0px; width: 1891px;" id="panel-1009_header_hd">
+                            <span id="panel-1009_header_hd-textEl" class="x-panel-header-text x-panel-header-text-default">FurnitureStore</span>
+                            <a style="right: auto" href="@Url.Action("Logout", "Home")">Logout</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="panel-1009-body" class="x-panel-body x-panel-body-default x-panel-body-default x-border-layout-ct" style="width: 1903px; height: 675px; left: 0px; top: 25px;">
+            <div class="x-panel x-border-item x-box-item x-panel-default" style="padding: 3px; width: 150px; left: 0px; top: 0px; margin: 0px; height: 673px;" id="panel-1010">
+                <div class="x-panel-header x-docked x-panel-header-default x-horizontal x-panel-header-horizontal x-panel-header-default-horizontal x-top x-panel-header-top x-panel-header-default-top x-docked-top x-panel-header-docked-top x-panel-header-default-docked-top x-unselectable" id="panel-1010_header" style="-webkit-user-select: none; left: 3px; top: 3px; width: 144px;">
+                    <div id="panel-1010_header-body" class="x-panel-header-body x-panel-header-body-default x-panel-header-body-horizontal x-panel-header-body-default-horizontal x-panel-header-body-top x-panel-header-body-default-top x-panel-header-body-docked-top x-panel-header-body-default-docked-top x-panel-header-body-default-horizontal x-panel-header-body-default-top x-panel-header-body-default-docked-top x-box-layout-ct" style="width: 132px;">
+                        <div id="panel-1010_header-innerCt" class="x-box-inner " role="presentation" style="width: 132px; height: 16px;">
+                            <div id="panel-1010_header-targetEl" style="position: absolute; width: 132px; left: 0px; top: 0px; height: 1px;">
+                                <div class="x-component x-panel-header-text-container x-box-item x-component-default" style="text-align: left; left: 0px; top: 0px; margin: 0px; width: 132px;" id="panel-1010_header_hd">
+                                    <span id="panel-1010_header_hd-textEl" class="x-panel-header-text x-panel-header-text-default">Navigation</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="x-toolbar x-docked x-toolbar-default x-docked-top x-toolbar-docked-top x-toolbar-default-docked-top x-box-layout-ct" id="toolbar-1011" style="left: 3px; top: 28px; width: 144px;">
+                    <div id="toolbar-1011-innerCt" class="x-box-inner " role="presentation" style="width: 140px; height: 22px;">
+                        <div id="toolbar-1011-targetEl" style="position: absolute; width: 140px; left: 0px; top: 0px; height: 1px;">
+                            <div class="x-btn x-box-item x-toolbar-item x-btn-default-toolbar-small x-noicon x-btn-noicon x-btn-default-toolbar-small-noicon" style="border-width: 1px; left: 0px; top: 0px; margin: 0px;" id="button-1012">
+                                <em id="button-1012-btnWrap">
+                                    <a href="@Url.Action("Index", "Goods")" id="button-1012-btnEl" class="x-btn-center" style="height: 16px;">Goods</a>
+                                </em>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="panel-1010-body" class="x-panel-body x-panel-body-default x-panel-body-default" style="width: 144px; height: 615px; left: 0px; top: 52px;">
+                    <div></div>
+                    <div id="panel-1010-clearEl" class="x-clear" role="presentation"></div>
+                </div>
+            </div>
+            <div class="x-panel x-border-item x-box-item x-panel-default" style="padding: 3px; left: 150px; top: 0px; margin: 0px; width: 1751px; height: 673px;" id="panel-1013">
+                <div class="x-panel-header x-docked x-panel-header-default x-horizontal x-panel-header-horizontal x-panel-header-default-horizontal x-top x-panel-header-top x-panel-header-default-top x-docked-top x-panel-header-docked-top x-panel-header-default-docked-top x-unselectable" id="panel-1013_header" style="-webkit-user-select: none; left: 3px; top: 3px; width: 1745px;">
+                    <div id="panel-1013_header-body" class="x-panel-header-body x-panel-header-body-default x-panel-header-body-horizontal x-panel-header-body-default-horizontal x-panel-header-body-top x-panel-header-body-default-top x-panel-header-body-docked-top x-panel-header-body-default-docked-top x-panel-header-body-default-horizontal x-panel-header-body-default-top x-panel-header-body-default-docked-top x-box-layout-ct" style="width: 1733px;">
+                        <div id="panel-1013_header-innerCt" class="x-box-inner " role="presentation" style="width: 1733px; height: 16px;">
+                            <div id="panel-1013_header-targetEl" style="position: absolute; width: 1733px; left: 0px; top: 0px; height: 1px;">
+                                <div class="x-component x-panel-header-text-container x-box-item x-component-default" style="text-align: left; left: 0px; top: 0px; margin: 0px; width: 1733px;" id="panel-1013_header_hd">
+                                    <span id="panel-1013_header_hd-textEl" class="x-panel-header-text x-panel-header-text-default">Worksheet</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="x-toolbar x-docked x-toolbar-default x-docked-top x-toolbar-docked-top x-toolbar-default-docked-top x-box-layout-ct" id="toolbar-1014" style="left: 3px; top: 28px; width: 1745px;">
+                    <div id="toolbar-1014-innerCt" class="x-box-inner " role="presentation" style="width: 1741px; height: 22px;">
+                        <div id="toolbar-1014-targetEl" style="position: absolute; width: 1741px; left: 0px; top: 0px; height: 1px;">
+                            <div class="x-btn x-box-item x-toolbar-item x-btn-default-toolbar-small x-noicon x-btn-noicon x-btn-default-toolbar-small-noicon" style="border-width: 1px; left: 0px; top: 0px; margin: 0px;" id="button-1015">
+                                <em id="button-1015-btnWrap">
+                                    <a href="@Url.Action("Create", "Role")" id="button-1012-btnEl" class="x-btn-center" style="height: 16px;">Create role</a>
+                                </em>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="x-toolbar x-docked x-toolbar-default x-vertical x-toolbar-vertical x-toolbar-default-vertical x-docked-left x-toolbar-docked-left x-toolbar-default-docked-left x-box-layout-ct" id="toolbar-1016" style="left: 3px; top: 55px; height: 615px;">
+                    <div id="toolbar-1016-innerCt" class="x-box-inner " role="presentation" style="height: 611px; width: 0px;">
+                        <div id="toolbar-1016-targetEl" style="position: absolute; width: 0px; left: 0px; top: 0px; height: 1px;">
+                        </div>
+                    </div>
+                </div>
+                <div id="panel-1013-body" class="x-panel-body x-panel-body-default x-panel-body-default" style="width: 1740px; height: 615px; left: 5px; top: 52px;">
+                    <div id="create"></div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
+</html>
 <script>
     var myData = @Html.Raw(Model.GetData())
-    Ext.create('Ext.data.Store', {
-        storeId: 'sampleStore',
-        fields: [
-            { name: 'ID', type: 'string' },
-            { name: 'NAME', type: 'string' },
-            { name: 'AddedDateSerialized', type: 'date' }
-        ],
-        data: myData
-    });
 
-    var roleDom = Ext.getDom('role-grid');
+        Ext.create('Ext.data.Store', {
+            storeId: 'sampleStore',
+            fields: [
+                { name: 'ID', type: 'string' },
+                { name: 'NAME', type: 'string' },
+                { name: 'AddedDateSerialized', type: 'date' }
+            ],
+            data: myData
+        });
+
+    var roleDom = Ext.getDom('create');
 
     Ext.create('Ext.grid.Panel', {
         title: 'Roles',
@@ -55,13 +138,10 @@
             }
         ],
         height: 350,
-        width: 600,
-        renderTo: Ext.getBody(),
+        renderTo: roleDom,
         viewConfig: {
             stripeRows: true,
             enableTextSelection: true
         }
     });
 </script>
-<a href="@Url.Action("Create", "Role")">Create role</a>
-<a href="@Url.Action("Index", "Goods")">Goods</a>

@@ -2,33 +2,65 @@
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Login page</title>
+</head>
+<body>
 @using (Html.BeginForm("Login", "Home", FormMethod.Post, new { @class = "form-horizontal" }))
 {
     @model FurnitureStore.Models.User
-    <fieldset>
-        <div class="control-group">
-            <label class="control-label" for="Email">
-                Email:
-            </label>
-            <div class="controls">
-                @Html.ValidationMessage("Email")
-                @Html.TextBox("Email")
+<div id="test">
+        <div class="x-panel x-panel-default x-box-item" style="width: 400px; height: 108px; left: 751px; margin: 0px; top: 282.5px;" id="idForm">
+        <div class="x-panel-header x-docked x-panel-header-default x-horizontal x-panel-header-horizontal x-panel-header-default-horizontal x-top x-panel-header-top x-panel-header-default-top x-docked-top x-panel-header-docked-top x-panel-header-default-docked-top x-unselectable" id="idForm_header" style="-webkit-user-select: none; width: 400px; left: 0px; top: 0px;">
+            <div id="idForm_header-body" class="x-panel-header-body x-panel-header-body-default x-panel-header-body-horizontal x-panel-header-body-default-horizontal x-panel-header-body-top x-panel-header-body-default-top x-panel-header-body-docked-top x-panel-header-body-default-docked-top x-panel-header-body-default-horizontal x-panel-header-body-default-top x-panel-header-body-default-docked-top x-box-layout-ct" style="width: 388px;">
+            <div id="idForm_header-innerCt" class="x-box-inner " role="presentation" style="width: 388px; height: 16px;">
+                <div id="idForm_header-targetEl" style="position: absolute; width: 388px; left: 0px; top: 0px; height: 1px;">
+                <div class="x-component x-panel-header-text-container x-box-item x-component-default" style="text-align: left; left: 0px; top: 0px; margin: 0px; width: 388px;" id="idForm_header_hd"><span id="idForm_header_hd-textEl" class="x-panel-header-text x-panel-header-text-default">Login form</span>
+                    </div>
+                </div>
+                </div>
+            </div>
+            </div>
+        <div id="idForm-body" class="x-panel-body x-panel-body-default x-panel-body-default" style="padding: 5px 5px 0px; width: 400px; left: 0px; top: 25px; height: 83px;">
+            <table class="x-field x-form-item x-field-default x-autocontainer-form-item" cellpadding="0" id="textfield-1010" style="table-layout: fixed;">
+            <tbody>
+                <tr id="textfield-1010-inputRow">
+                <td id="textfield-1010-labelCell" style="" valign="top" halign="left" width="105" class="x-field-label-cell">
+                    <label id="textfield-1010-labelEl" for="textfield-1010-inputEl" class="x-form-item-label x-form-item-label-left" style="width:100px;margin-right:5px;">Email:</label>
+                    </td>
+                <td class="x-form-item-body " id="textfield-1010-bodyEl" colspan="2" role="presentation" style="width: 150px;">
+                    @Html.TextBox("Email")
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            <table class="x-field x-form-item x-field-default x-autocontainer-form-item" cellpadding="0" id="textfield-1011" style="table-layout: fixed;">
+            <tbody>
+                <tr id="textfield-1011-inputRow"><td id="textfield-1011-labelCell" style="" valign="top" halign="left" width="105" class="x-field-label-cell">
+                    <label id="textfield-1011-labelEl" for="textfield-1011-inputEl" class="x-form-item-label x-form-item-label-left" style="width:100px;margin-right:5px;">Password:</label>
+                    </td>
+                <td class="x-form-item-body " id="textfield-1011-bodyEl" colspan="2" role="presentation" style="width: 150px;">
+                    @Html.Password("Password")
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            <div class="x-btn x-btn-default-small x-noicon x-btn-noicon x-btn-default-small-noicon" style="display:inline-block; border-width:1px 1px 1px 1px;" id="button-1012">
+            <em id="button-1012-btnWrap">
+                <button id="button-1012-btnEl" type="submit" class="x-btn-center" hidefocus="true" role="button" autocomplete="off" style="height: 16px;">
+                <span id="button-1012-btnInnerEl" class="x-btn-inner" style="">Login</span>
+                <span id="button-1012-btnIconEl" class="x-btn-icon ">
+                    </span>
+                </button>
+                </em>
+            </div>
+            <div style="display: inline-block"><a href="@Url.Action("Register", "Home")">Register</a></div>
             </div>
         </div>
-        <div class="control-group">
-            <label class="control-label" for="Password">
-                Password:
-            </label>
-            <div class="controls">
-                @Html.ValidationMessage("Password")
-                @Html.Password("Password")
-            </div>
-        </div>
-        <div class="form-actions">
-            <button type="submit" class="btn btn-primary">
-                Login
-            </button>
-            <a href="@Url.Action("Register", "Home")">Register</a>
-        </div>
-    </fieldset>
-}
+    </div>
+} 
+</body>
+</html>
