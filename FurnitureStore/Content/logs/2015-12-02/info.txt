@@ -1,0 +1,387 @@
+2015-12-02 13:13:35.9504|INFO|FurnitureStore.MvcApplication|Application End
+2015-12-02 13:16:40.3338|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:16:40.3338|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:16:42.4831|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:16:42.4831|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:16:45.0439|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:17:05.3450|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:17:05.3450|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:17:53.3621|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:18:16.1670|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:18:16.1670|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:18:17.7727|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:18:17.7882|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:18:19.9870|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:19:25.2928|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:19:28.4112|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:20:53.7695|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 13:20:55.4972|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 16:33:46.3971|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 16:35:16.6470|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 16:35:53.1091|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 16:49:24.7862|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 17:06:56.4423|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 17:13:02.2807|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 17:31:31.0565|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 18:36:52.0868|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 18:37:01.3333|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 18:37:05.5315|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 18:37:27.3858|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 18:37:30.5990|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 18:38:18.4107|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 18:40:27.8861|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 18:40:36.3726|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 18:59:55.0239|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 18:59:57.5320|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 19:01:02.7037|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 19:01:04.0688|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 19:11:06.5223|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 19:17:10.8851|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 19:17:12.9612|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 19:18:27.3125|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 19:20:41.4162|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 19:20:43.6223|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 19:25:10.1045|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 19:25:15.0418|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 19:25:20.7741|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 19:25:22.0512|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 19:44:10.5058|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 19:44:13.1589|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 19:44:16.0601|INFO|FurnitureStore.Models.RoleRepository|00000000-0000-0000-0000-000000000000 |  | 01.01.0001 0:00:00
+2015-12-02 19:49:12.7450|INFO|FurnitureStore.Models.RoleRepository|00000000-0000-0000-0000-000000000000 |  | 01.01.0001 0:00:00
+2015-12-02 20:33:16.7333|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 20:33:24.8887|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 20:33:39.5716|INFO|FurnitureStore.Models.RoleRepository|00000000-0000-0000-0000-000000000000 |  | 01.01.0001 0:00:00
+2015-12-02 20:36:11.5323|INFO|FurnitureStore.Models.RoleRepository|00000000-0000-0000-0000-000000000000 |  | 01.01.0001 0:00:00
+2015-12-02 20:36:30.2243|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 20:36:31.7454|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 20:36:36.7687|INFO|FurnitureStore.Models.RoleRepository|00000000-0000-0000-0000-000000000000 |  | 01.01.0001 0:00:00
+2015-12-02 21:00:56.3522|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:02:02.7260|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:02:04.5901|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:02:09.4104|INFO|FurnitureStore.Controllers.RoleController|System.String[]
+2015-12-02 21:02:09.4114|INFO|FurnitureStore.Models.RoleRepository|00000000-0000-0000-0000-000000000000 |  | 01.01.0001 0:00:00
+2015-12-02 21:04:04.2909|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:04:06.1200|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:04:09.2042|INFO|FurnitureStore.Controllers.RoleController|61
+2015-12-02 21:04:09.2042|INFO|FurnitureStore.Models.RoleRepository|00000000-0000-0000-0000-000000000000 |  | 01.01.0001 0:00:00
+2015-12-02 21:05:56.9084|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:05:58.8815|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|0eec7d00-b75a-41dc-9d4d-eda326b781f8
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|Customer2
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|01.12.2015 0:00:00
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|1447421586765347524
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|HTTP_CACHE_CONTROL:max-age=0
+HTTP_CONNECTION:keep-alive
+HTTP_CONTENT_LENGTH:88
+HTTP_CONTENT_TYPE:application/x-www-form-urlencoded
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip, deflate
+HTTP_ACCEPT_LANGUAGE:ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+HTTP_COOKIE:_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+HTTP_HOST:localhost:53504
+HTTP_REFERER:http://localhost:53504/Role/Edit/?Id=0eec7d00-b75a-41dc-9d4d-eda326b781f8
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+HTTP_ORIGIN:http://localhost:53504
+HTTP_UPGRADE_INSECURE_REQUESTS:1
+
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 88
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+Host: localhost:53504
+Referer: http://localhost:53504/Role/Edit/?Id=0eec7d00-b75a-41dc-9d4d-eda326b781f8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+Origin: http://localhost:53504
+Upgrade-Insecure-Requests: 1
+
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|/LM/W3SVC/4/ROOT
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|88
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|application/x-www-form-urlencoded
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|CGI/1.1
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|off
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|4
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|/LM/W3SVC/4
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|/Role/SubmitEdit
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Role\SubmitEdit
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|61455
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|POST
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|/Role/SubmitEdit
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|localhost
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|53504
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|0
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|HTTP/1.1
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|Microsoft-IIS/10.0
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|/Role/SubmitEdit
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|max-age=0
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|keep-alive
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|88
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|application/x-www-form-urlencoded
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|gzip, deflate
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|localhost:53504
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|http://localhost:53504/Role/Edit/?Id=0eec7d00-b75a-41dc-9d4d-eda326b781f8
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|http://localhost:53504
+2015-12-02 21:06:01.7027|INFO|FurnitureStore.Controllers.RoleController|1
+2015-12-02 21:17:55.7195|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:17:57.4896|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|0eec7d00-b75a-41dc-9d4d-eda326b781f8
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|Customer2
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|01.12.2015 0:00:00
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|1447421586765347524
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|HTTP_CACHE_CONTROL:max-age=0
+HTTP_CONNECTION:keep-alive
+HTTP_CONTENT_LENGTH:88
+HTTP_CONTENT_TYPE:application/x-www-form-urlencoded
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip, deflate
+HTTP_ACCEPT_LANGUAGE:ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+HTTP_COOKIE:_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+HTTP_HOST:localhost:53504
+HTTP_REFERER:http://localhost:53504/Role/Edit/?Id=0eec7d00-b75a-41dc-9d4d-eda326b781f8
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+HTTP_ORIGIN:http://localhost:53504
+HTTP_UPGRADE_INSECURE_REQUESTS:1
+
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 88
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+Host: localhost:53504
+Referer: http://localhost:53504/Role/Edit/?Id=0eec7d00-b75a-41dc-9d4d-eda326b781f8
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+Origin: http://localhost:53504
+Upgrade-Insecure-Requests: 1
+
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|/LM/W3SVC/4/ROOT
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|88
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|application/x-www-form-urlencoded
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|CGI/1.1
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|off
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|4
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|/LM/W3SVC/4
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|/Role/SubmitEdit
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Role\SubmitEdit
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|61749
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|POST
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|/Role/SubmitEdit
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|localhost
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|53504
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|0
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|HTTP/1.1
+2015-12-02 21:18:00.7438|INFO|FurnitureStore.Controllers.RoleController|Microsoft-IIS/10.0
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|/Role/SubmitEdit
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|max-age=0
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|keep-alive
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|88
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|application/x-www-form-urlencoded
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|gzip, deflate
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|localhost:53504
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|http://localhost:53504/Role/Edit/?Id=0eec7d00-b75a-41dc-9d4d-eda326b781f8
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|http://localhost:53504
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|1
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Controllers.RoleController|Name
+2015-12-02 21:18:00.7518|INFO|FurnitureStore.Models.RoleRepository|00000000-0000-0000-0000-000000000000 |  | 01.01.0001 0:00:00
+2015-12-02 21:22:02.2496|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:22:04.0297|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:22:17.7035|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Client | 02.12.2015 0:00:00
+2015-12-02 21:22:17.7265|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 21:22:17.7265|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:34:36.8568|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:34:39.3859|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:34:45.9833|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Customer | 02.12.2015 0:00:00
+2015-12-02 21:34:46.0073|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 21:34:46.0073|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:34:46.0073|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:34:46.0283|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 21:35:29.9098|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:35:31.4319|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:35:36.6352|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Client | 02.12.2015 0:00:00
+2015-12-02 21:35:36.6592|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 21:35:36.6592|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:35:36.6602|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:35:38.8273|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 21:36:40.5018|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:36:42.2269|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:36:46.2342|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Customer | 02.12.2015 0:00:00
+2015-12-02 21:36:46.2592|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 21:36:46.2592|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:36:46.2902|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 21:40:59.9197|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:41:01.6898|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:41:05.8630|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Client | 02.12.2015 0:00:00
+2015-12-02 21:41:05.8860|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 21:41:05.8860|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:41:05.8860|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:41:07.6111|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 21:42:22.2594|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:42:23.9185|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:42:27.9247|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Customer | 02.12.2015 0:00:00
+2015-12-02 21:42:27.9477|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 21:42:27.9477|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:42:27.9627|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 21:46:35.4059|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:46:38.3460|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:46:45.3414|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Client | 02.12.2015 0:00:00
+2015-12-02 21:46:45.3664|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 21:46:45.3664|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:46:45.3814|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 21:47:30.5390|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:47:32.1841|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:47:36.7984|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Customer | 02.12.2015 0:00:00
+2015-12-02 21:47:36.8214|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 21:47:36.8214|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:47:36.8284|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:47:38.4865|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:47:40.2196|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:49:46.2008|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:49:48.7569|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:50:51.4075|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:51:59.8924|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:54:47.0840|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Client | 02.12.2015 0:00:00
+2015-12-02 21:54:47.1150|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 21:54:47.1150|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:54:47.1250|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:54:51.7532|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 21:58:25.3295|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Customer | 02.12.2015 0:00:00
+2015-12-02 21:58:25.3415|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 21:58:25.3415|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:58:27.5806|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:58:54.3891|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 21:58:56.6753|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 22:00:27.6175|INFO|FurnitureStore.Models.RoleRepository|bb8e94c7-6533-4e1e-b71a-eadcb68b3e31 | Administrator | 01.01.0001 0:00:00
+2015-12-02 22:00:40.3602|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 22:00:40.3602|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:00:40.3602|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:01:07.4427|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:01:15.8892|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 22:03:46.8809|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Client | 01.01.0001 0:00:00
+2015-12-02 22:15:00.9234|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 22:15:07.7908|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:15:10.2519|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 22:15:41.7537|INFO|FurnitureStore.Models.RoleRepository|bb8e94c7-6533-4e1e-b71a-eadcb68b3e31 | Administrator | 02.12.2015 0:00:00
+2015-12-02 22:15:46.4870|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 22:15:49.2712|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:15:51.5333|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:15:58.0347|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 22:16:10.3224|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Client | 01.12.2015 0:00:00
+2015-12-02 22:16:10.3304|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 22:16:10.3304|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:16:10.3304|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:17:43.3907|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:17:45.0058|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 22:17:46.1569|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 22:17:57.5145|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Customer | 02.12.2015 0:00:00
+2015-12-02 22:17:57.5395|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 22:17:57.5395|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:17:57.5465|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:56:20.9723|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:58:35.6110|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 22:59:29.5920|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:01:31.8860|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:01:44.4868|INFO|FurnitureStore.Models.RoleRepository|DB save was successfull!
+2015-12-02 23:01:44.4928|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:03:01.5912|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-02 23:03:05.2864|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 23:03:08.6606|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:03:11.5127|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 23:03:18.0571|INFO|FurnitureStore.Models.RoleRepository|e7861a7e-01de-46d5-a19c-06cea7035202 | VIP Client | 01.12.2015 0:00:00
+2015-12-02 23:03:18.0651|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-02 23:03:18.0651|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:05:33.7529|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:05:46.1136|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:06:37.9455|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:08:19.2303|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:09:07.1741|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:11:07.7740|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:12:27.8056|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:13:27.2760|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:13:59.3838|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:15:25.2947|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:16:50.2786|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:17:31.6099|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:24:07.0355|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:25:33.4175|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:26:24.7704|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:31:45.0287|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:32:57.1299|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:35:11.1685|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:35:45.7065|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:35:51.2158|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:35:55.5241|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:40:02.5352|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:40:06.9175|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:40:08.4735|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 23:40:09.9156|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:40:18.3331|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 23:41:45.0961|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:42:12.1316|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 23:42:16.3669|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:42:37.4741|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:42:41.5663|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:42:42.8954|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-02 23:42:44.2164|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-02 23:44:52.2678|INFO|FurnitureStore.MvcApplication|Application Error

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ExtJsExtenderControls</id>
+    <version>2.0</version>
+    <title>ExtJsExtenderControls</title>
+    <authors>rodiniz</authors>
+    <owners>rodiniz</owners>
+    <licenseUrl>http://extjsextendercontrol.codeplex.com/license</licenseUrl>
+    <projectUrl>http://extjsextendercontrol.codeplex.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A wrapper around the ExtJs Library. The package will add the necessary changes to web.config.</description>
+    <summary>http://extjsextendercontrol.codeplex.com</summary>
+    <tags>ExtJs WebForms</tags>
+  </metadata>
+</package>

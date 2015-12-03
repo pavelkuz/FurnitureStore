@@ -1,0 +1,69 @@
+﻿@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Register user:</h2>
+@using (Html.BeginForm("SubmitRegister", "Home", FormMethod.Post, new { @class = "form-horizontal" }))
+{
+    <fieldset>
+        <div class="control-group">
+            <label class="control-label" for="Email">
+                Email:
+            </label>
+            <div class="controls">
+                @Html.ValidationMessage("Email")
+                @Html.TextBox("Email")
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="Password">
+                Password:
+            </label>
+            <div class="controls">
+                @Html.ValidationMessage("Password")
+                @Html.TextBox("Password")
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="LastName">
+                Last name:
+            </label>
+            <div class="controls">
+                @Html.ValidationMessage("LastName")
+                @Html.TextBox("LastName")
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="FirstName">
+                First name:
+            </label>
+            <div class="controls">
+                @Html.ValidationMessage("FirstName")
+                @Html.TextBox("FirstName")
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="MiddleName">
+                Middle name:
+            </label>
+            <div class="controls">
+                @Html.ValidationMessage("MiddleName")
+                @Html.TextBox("MiddleName")
+            </div>
+        </div>
+        <div class="control-group">
+            <label class="control-label" for="Role">
+                Role:
+            </label>
+            <div class="controls">
+                @Html.DropDownList("RoleId")
+            </div>
+        </div>
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">
+                Save
+            </button>
+            @Html.ActionLink("Cancel", "Index", null, null, new { @class = "btn" })
+        </div>
+    </fieldset>
+}

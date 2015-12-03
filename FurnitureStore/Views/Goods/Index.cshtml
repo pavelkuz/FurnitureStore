@@ -1,0 +1,82 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<a href="@Url.Action("Logout", "Home")">Logout</a>
+@model FurnitureStore.Models.Utils.JsonPresenter
+<script>
+    var myData = @Html.Raw(Model.GetData())
+    Ext.create('Ext.data.Store', {
+        storeId: 'sampleStore',
+        fields: [
+            { name: 'ID', type: 'string' },
+            { name: 'NAME', type: 'string' },
+            { name: 'MATERIAL', type: 'string' },
+            { name: 'MANUFACTURER', type: 'string' },
+            { name: 'LENGTH', type: 'float' },
+            { name: 'WIDTH', type: 'float' },
+            { name: 'HEIGHT', type: 'float' },
+            { name: 'PRICE', type: 'decimal' }
+        ],
+        data: myData
+    });
+
+    var roleDom = Ext.getDom('role-grid');
+
+    Ext.create('Ext.grid.Panel', {
+        title: 'Goods',
+        store: Ext.data.StoreManager.lookup('sampleStore'),
+        columns: [
+            { text: 'Goods ID', dataIndex: 'ID', flex: 1 },
+            { text: 'Name', dataIndex: 'NAME', flex: 1 },
+            { text: 'Material', dataIndex: 'MATERIAL', flex: 1 },
+            { text: 'Manufacturer', dataIndex: 'MANUFACTURER', flex: 1 },
+            { text: 'Length', dataIndex: 'LENGTH', flex: 1 },
+            { text: 'Width', dataIndex: 'WIDTH', flex: 1 },
+            { text: 'Height', dataIndex: 'HEIGHT', flex: 1 },
+            { text: 'Price', dataIndex: 'PRICE', flex: 1 },
+            {
+                xtype: 'actioncolumn', width: 50,
+                items: [{
+                    icon: '../Content/extjs/icons/edit.png',  // Use a URL in the icon config
+                    tooltip: 'Edit',
+                    triggerEvent: 'cellclick',
+                    handler: function (grid, rowIndex, colIndex) {
+                        var rec = grid.getStore().getAt(rowIndex);
+                        var Id = rec.get('ID');
+                        window.open('@Url.Action("Edit", "Goods")' + "?Id=" + Id, "_self")
+                        //alert("Edit " + rec.get('ID'));
+                    }
+                },
+                    {
+                        icon: '../Content/extjs/icons/delete.gif',
+                        tooltip: 'Delete',
+                        handler: function (grid, rowIndex, colIndex) {
+                            var rec = grid.getStore().getAt(rowIndex);
+                            var Id = rec.get('ID');
+                            window.open('@Url.Action("Delete", "Goods")' + "?Id=" + Id, "_self")
+                            //alert("Terminate " + rec.get('ID'));
+                        }
+                    }, {
+                        icon: '../Content/extjs/icons/buy.png',  // Use a URL in the icon config
+                        tooltip: 'Buy',
+                        triggerEvent: 'cellclick',
+                        handler: function (grid, rowIndex, colIndex) {
+                            var rec = grid.getStore().getAt(rowIndex);
+                            var Id = rec.get('ID');
+                            window.open('@Url.Action("Buy", "Goods")' + "?Id=" + Id, "_self")
+                            //alert("Edit " + rec.get('ID'));
+                        }
+                    }]
+            }
+        ],
+        height: 400,
+        renderTo: Ext.getBody(),
+        viewConfig: {
+            stripeRows: true,
+            enableTextSelection: true
+        }
+    });
+</script>
+<a href="@Url.Action("Create", "Goods")">Create goods</a>
+<a href="@Url.Action("Index", "Role")">Roles</a>

@@ -1,0 +1,15 @@
+2015-12-01 15:16:33.9368|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 20:37:06.7049|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 20:38:58.9603|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 20:40:40.1861|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 20:42:07.3541|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 21:17:03.9980|INFO|FurnitureStore.MvcApplication|Application End
+2015-12-01 21:17:07.0112|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 21:19:35.8117|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 21:20:50.4160|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 22:35:03.6107|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 22:43:11.5556|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 22:43:38.5311|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 22:46:13.4530|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 22:49:45.0191|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-01 22:52:34.7828|INFO|FurnitureStore.MvcApplication|Application Error

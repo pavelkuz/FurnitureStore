@@ -1,0 +1,414 @@
+2015-12-01 15:06:58.5049|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.MappingException: c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Models\NHibernate\Mappings\Order.hbm.xml(10,8): XML validation error: Элемент "list" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "many-to-many" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "index, list-index" в пространстве имен "urn:nhibernate-mapping-2.2". ---> System.Xml.Schema.XmlSchemaValidationException: Элемент "list" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "many-to-many" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "index, list-index" в пространстве имен "urn:nhibernate-mapping-2.2".
+   --- Конец трассировки внутреннего стека исключений ---
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.ValidationHandler(Object o, ValidationEventArgs args)
+   в System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(ValidationEventHandler eventHandler, Object sender, XmlSchemaValidationException e, XmlSeverityType severity)
+   в System.Xml.Schema.XmlSchemaValidator.ElementValidationError(XmlQualifiedName name, ValidationState context, ValidationEventHandler eventHandler, Object sender, String sourceUri, Int32 lineNo, Int32 linePos, XmlSchemaSet schemaSet)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElementContext(XmlQualifiedName elementName, Boolean& invalidElementInContext)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElement(String localName, String namespaceUri, XmlSchemaInfo schemaInfo, String xsiType, String xsiNil, String xsiSchemaLocation, String xsiNoNamespaceSchemaLocation)
+   в System.Xml.XsdValidatingReader.ProcessElementEvent()
+   в System.Xml.XsdValidatingReader.ProcessReaderEvent()
+   в System.Xml.XsdValidatingReader.Read()
+   в System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   в System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   в System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   в System.Xml.XmlDocument.Load(XmlReader reader)
+   в NHibernate.Cfg.Configuration.LoadMappingDocument(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlReader(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(FileInfo xmlFile)
+   в NHibernate.Cfg.Configuration.AddDirectory(DirectoryInfo dir)
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 24
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 15:15:41.9639|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.MappingException: Could not compile the mapping document: c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Models\NHibernate\Mappings\Order.hbm.xml ---> NHibernate.MappingException: Problem trying to set property type by reflection ---> NHibernate.MappingException: class FurnitureStore.Models.Order, FurnitureStore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null not found while looking for property: Id ---> NHibernate.PropertyNotFoundException: Could not find a getter for property 'Id' in class 'FurnitureStore.Models.Order'
+   в NHibernate.Properties.BasicPropertyAccessor.GetGetter(Type type, String propertyName)
+   в NHibernate.Util.ReflectHelper.GetGetter(Type theClass, String propertyName, String propertyAccessorName)
+   в NHibernate.Util.ReflectHelper.ReflectedPropertyClass(String className, String name, String accessorName)
+   --- Конец трассировки внутреннего стека исключений ---
+   в NHibernate.Util.ReflectHelper.ReflectedPropertyClass(String className, String name, String accessorName)
+   в NHibernate.Mapping.SimpleValue.SetTypeUsingReflection(String className, String propertyName, String accesorName)
+   --- Конец трассировки внутреннего стека исключений ---
+   в NHibernate.Mapping.SimpleValue.SetTypeUsingReflection(String className, String propertyName, String accesorName)
+   в NHibernate.Cfg.XmlHbmBinding.ClassIdBinder.CreateIdentifierProperty(HbmId idSchema, PersistentClass rootClass, SimpleValue id)
+   в NHibernate.Cfg.XmlHbmBinding.ClassIdBinder.BindId(HbmId idSchema, PersistentClass rootClass, Table table)
+   в NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   в NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddRootClasses(HbmClass rootClass, IDictionary`2 inheritedMetas)
+   в NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   в NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   в NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   --- Конец трассировки внутреннего стека исключений ---
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   в NHibernate.Cfg.Configuration.AddValidatedDocument(NamedXmlDocument doc)
+   в NHibernate.Cfg.Configuration.ProcessMappingsQueue()
+   в NHibernate.Cfg.Configuration.AddDocumentThroughQueue(NamedXmlDocument document)
+   в NHibernate.Cfg.Configuration.AddXmlReader(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(FileInfo xmlFile)
+   в NHibernate.Cfg.Configuration.AddDirectory(DirectoryInfo dir)
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 24
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 15:17:01.2644|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.MappingException: c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Models\NHibernate\Mappings\Order.hbm.xml(4,6): XML validation error: Элемент "class" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "component" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "meta, subselect, cache, synchronize, comment, tuplizer, id, composite-id" в пространстве имен "urn:nhibernate-mapping-2.2". ---> System.Xml.Schema.XmlSchemaValidationException: Элемент "class" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "component" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "meta, subselect, cache, synchronize, comment, tuplizer, id, composite-id" в пространстве имен "urn:nhibernate-mapping-2.2".
+   --- Конец трассировки внутреннего стека исключений ---
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.ValidationHandler(Object o, ValidationEventArgs args)
+   в System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(ValidationEventHandler eventHandler, Object sender, XmlSchemaValidationException e, XmlSeverityType severity)
+   в System.Xml.Schema.XmlSchemaValidator.ElementValidationError(XmlQualifiedName name, ValidationState context, ValidationEventHandler eventHandler, Object sender, String sourceUri, Int32 lineNo, Int32 linePos, XmlSchemaSet schemaSet)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElementContext(XmlQualifiedName elementName, Boolean& invalidElementInContext)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElement(String localName, String namespaceUri, XmlSchemaInfo schemaInfo, String xsiType, String xsiNil, String xsiSchemaLocation, String xsiNoNamespaceSchemaLocation)
+   в System.Xml.XsdValidatingReader.ProcessElementEvent()
+   в System.Xml.XsdValidatingReader.ProcessReaderEvent()
+   в System.Xml.XsdValidatingReader.Read()
+   в System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   в System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   в System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   в System.Xml.XmlDocument.Load(XmlReader reader)
+   в NHibernate.Cfg.Configuration.LoadMappingDocument(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlReader(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(FileInfo xmlFile)
+   в NHibernate.Cfg.Configuration.AddDirectory(DirectoryInfo dir)
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 24
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 15:18:16.4837|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.MappingException: c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Models\NHibernate\Mappings\Order.hbm.xml(4,6): XML validation error: Элемент "class" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "component" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "meta, subselect, cache, synchronize, comment, tuplizer, id, composite-id" в пространстве имен "urn:nhibernate-mapping-2.2". ---> System.Xml.Schema.XmlSchemaValidationException: Элемент "class" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "component" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "meta, subselect, cache, synchronize, comment, tuplizer, id, composite-id" в пространстве имен "urn:nhibernate-mapping-2.2".
+   --- Конец трассировки внутреннего стека исключений ---
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.ValidationHandler(Object o, ValidationEventArgs args)
+   в System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(ValidationEventHandler eventHandler, Object sender, XmlSchemaValidationException e, XmlSeverityType severity)
+   в System.Xml.Schema.XmlSchemaValidator.ElementValidationError(XmlQualifiedName name, ValidationState context, ValidationEventHandler eventHandler, Object sender, String sourceUri, Int32 lineNo, Int32 linePos, XmlSchemaSet schemaSet)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElementContext(XmlQualifiedName elementName, Boolean& invalidElementInContext)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElement(String localName, String namespaceUri, XmlSchemaInfo schemaInfo, String xsiType, String xsiNil, String xsiSchemaLocation, String xsiNoNamespaceSchemaLocation)
+   в System.Xml.XsdValidatingReader.ProcessElementEvent()
+   в System.Xml.XsdValidatingReader.ProcessReaderEvent()
+   в System.Xml.XsdValidatingReader.Read()
+   в System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   в System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   в System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   в System.Xml.XmlDocument.Load(XmlReader reader)
+   в NHibernate.Cfg.Configuration.LoadMappingDocument(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlReader(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(FileInfo xmlFile)
+   в NHibernate.Cfg.Configuration.AddDirectory(DirectoryInfo dir)
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 24
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 15:20:32.9715|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.MappingException: c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Models\NHibernate\Mappings\Order.hbm.xml(4,6): XML validation error: Элемент "class" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "component" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "meta, subselect, cache, synchronize, comment, tuplizer, id, composite-id" в пространстве имен "urn:nhibernate-mapping-2.2". ---> System.Xml.Schema.XmlSchemaValidationException: Элемент "class" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "component" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "meta, subselect, cache, synchronize, comment, tuplizer, id, composite-id" в пространстве имен "urn:nhibernate-mapping-2.2".
+   --- Конец трассировки внутреннего стека исключений ---
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.ValidationHandler(Object o, ValidationEventArgs args)
+   в System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(ValidationEventHandler eventHandler, Object sender, XmlSchemaValidationException e, XmlSeverityType severity)
+   в System.Xml.Schema.XmlSchemaValidator.ElementValidationError(XmlQualifiedName name, ValidationState context, ValidationEventHandler eventHandler, Object sender, String sourceUri, Int32 lineNo, Int32 linePos, XmlSchemaSet schemaSet)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElementContext(XmlQualifiedName elementName, Boolean& invalidElementInContext)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElement(String localName, String namespaceUri, XmlSchemaInfo schemaInfo, String xsiType, String xsiNil, String xsiSchemaLocation, String xsiNoNamespaceSchemaLocation)
+   в System.Xml.XsdValidatingReader.ProcessElementEvent()
+   в System.Xml.XsdValidatingReader.ProcessReaderEvent()
+   в System.Xml.XsdValidatingReader.Read()
+   в System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   в System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   в System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   в System.Xml.XmlDocument.Load(XmlReader reader)
+   в NHibernate.Cfg.Configuration.LoadMappingDocument(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlReader(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(FileInfo xmlFile)
+   в NHibernate.Cfg.Configuration.AddDirectory(DirectoryInfo dir)
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 24
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 15:34:30.4524|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.MappingException: Repeated column in mapping for collection: FurnitureStore.Models.Order.Goods column: GoodsId
+   в NHibernate.Mapping.Collection.CheckColumnDuplication(ISet`1 distinctColumns, IEnumerable`1 columns)
+   в NHibernate.Mapping.Collection.CheckColumnDuplication()
+   в NHibernate.Mapping.Collection.Validate(IMapping mapping)
+   в NHibernate.Mapping.IndexedCollection.Validate(IMapping mapping)
+   в NHibernate.Cfg.Configuration.ValidateCollections()
+   в NHibernate.Cfg.Configuration.Validate()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 15:35:42.0505|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.MappingException: Repeated column in mapping for collection: FurnitureStore.Models.Order.Goods column: GoodsId
+   в NHibernate.Mapping.Collection.CheckColumnDuplication(ISet`1 distinctColumns, IEnumerable`1 columns)
+   в NHibernate.Mapping.Collection.CheckColumnDuplication()
+   в NHibernate.Mapping.Collection.Validate(IMapping mapping)
+   в NHibernate.Mapping.IndexedCollection.Validate(IMapping mapping)
+   в NHibernate.Cfg.Configuration.ValidateCollections()
+   в NHibernate.Cfg.Configuration.Validate()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 15:36:52.2195|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.FKUnmatchingColumnsException: Foreign key (FK318A099B31771C22:Orders [CartId])) must have same number of columns as the referenced primary key (Orders [CartId, Position])
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.SecondPassCompileForeignKeys(Table table, ISet`1 done)
+   в NHibernate.Cfg.Configuration.SecondPassCompile()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 15:39:31.0536|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.FKUnmatchingColumnsException: Foreign key (FK318A099B31771C22:Orders [CartId])) must have same number of columns as the referenced primary key (Orders [CartId, Position])
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.SecondPassCompileForeignKeys(Table table, ISet`1 done)
+   в NHibernate.Cfg.Configuration.SecondPassCompile()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 15:40:37.9834|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.FKUnmatchingColumnsException: Foreign key (FK318A099B31771C22:Orders [CartId])) must have same number of columns as the referenced primary key (Orders [CartId, Position])
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.SecondPassCompileForeignKeys(Table table, ISet`1 done)
+   в NHibernate.Cfg.Configuration.SecondPassCompile()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 15:41:16.1366|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.FKUnmatchingColumnsException: Foreign key (FK318A099B31771C22:Orders [CartId])) must have same number of columns as the referenced primary key (Orders [CartId, idx])
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.SecondPassCompileForeignKeys(Table table, ISet`1 done)
+   в NHibernate.Cfg.Configuration.SecondPassCompile()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 15:41:47.3164|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.MappingException: c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Models\NHibernate\Mappings\Order.hbm.xml(7,8): XML validation error: Элемент "list" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "many-to-many" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "index, list-index" в пространстве имен "urn:nhibernate-mapping-2.2". ---> System.Xml.Schema.XmlSchemaValidationException: Элемент "list" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "many-to-many" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "index, list-index" в пространстве имен "urn:nhibernate-mapping-2.2".
+   --- Конец трассировки внутреннего стека исключений ---
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.ValidationHandler(Object o, ValidationEventArgs args)
+   в System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(ValidationEventHandler eventHandler, Object sender, XmlSchemaValidationException e, XmlSeverityType severity)
+   в System.Xml.Schema.XmlSchemaValidator.ElementValidationError(XmlQualifiedName name, ValidationState context, ValidationEventHandler eventHandler, Object sender, String sourceUri, Int32 lineNo, Int32 linePos, XmlSchemaSet schemaSet)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElementContext(XmlQualifiedName elementName, Boolean& invalidElementInContext)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElement(String localName, String namespaceUri, XmlSchemaInfo schemaInfo, String xsiType, String xsiNil, String xsiSchemaLocation, String xsiNoNamespaceSchemaLocation)
+   в System.Xml.XsdValidatingReader.ProcessElementEvent()
+   в System.Xml.XsdValidatingReader.ProcessReaderEvent()
+   в System.Xml.XsdValidatingReader.Read()
+   в System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   в System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   в System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   в System.Xml.XmlDocument.Load(XmlReader reader)
+   в NHibernate.Cfg.Configuration.LoadMappingDocument(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlReader(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(FileInfo xmlFile)
+   в NHibernate.Cfg.Configuration.AddDirectory(DirectoryInfo dir)
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 24
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 16:20:22.9288|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.FKUnmatchingColumnsException: Foreign key (FK318A099B31771C22:Orders [CartId])) must have same number of columns as the referenced primary key (Orders [CartId, Position])
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.SecondPassCompileForeignKeys(Table table, ISet`1 done)
+   в NHibernate.Cfg.Configuration.SecondPassCompile()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 17:47:31.1039|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.FKUnmatchingColumnsException: Foreign key (FK318A099B31771C22:Orders [CartId])) must have same number of columns as the referenced primary key (Orders [CartId, Position])
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.SecondPassCompileForeignKeys(Table table, ISet`1 done)
+   в NHibernate.Cfg.Configuration.SecondPassCompile()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 17:48:41.1459|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.FKUnmatchingColumnsException: Foreign key (FK318A099BFDE379B9:Orders [Id])) must have same number of columns as the referenced primary key (Orders [Id, Position])
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.SecondPassCompileForeignKeys(Table table, ISet`1 done)
+   в NHibernate.Cfg.Configuration.SecondPassCompile()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 17:53:02.6068|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.MappingException: c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Models\NHibernate\Mappings\Order.hbm.xml(8,6): XML validation error: Элемент "class" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "list" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "meta, subselect, cache, synchronize, comment, tuplizer, id, composite-id" в пространстве имен "urn:nhibernate-mapping-2.2". ---> System.Xml.Schema.XmlSchemaValidationException: Элемент "class" в пространстве имен "urn:nhibernate-mapping-2.2" имеет недопустимый дочерний элемент "list" в пространстве имен "urn:nhibernate-mapping-2.2". Список ожидаемых элементов: "meta, subselect, cache, synchronize, comment, tuplizer, id, composite-id" в пространстве имен "urn:nhibernate-mapping-2.2".
+   --- Конец трассировки внутреннего стека исключений ---
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.ValidationHandler(Object o, ValidationEventArgs args)
+   в System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(ValidationEventHandler eventHandler, Object sender, XmlSchemaValidationException e, XmlSeverityType severity)
+   в System.Xml.Schema.XmlSchemaValidator.ElementValidationError(XmlQualifiedName name, ValidationState context, ValidationEventHandler eventHandler, Object sender, String sourceUri, Int32 lineNo, Int32 linePos, XmlSchemaSet schemaSet)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElementContext(XmlQualifiedName elementName, Boolean& invalidElementInContext)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateElement(String localName, String namespaceUri, XmlSchemaInfo schemaInfo, String xsiType, String xsiNil, String xsiSchemaLocation, String xsiNoNamespaceSchemaLocation)
+   в System.Xml.XsdValidatingReader.ProcessElementEvent()
+   в System.Xml.XsdValidatingReader.ProcessReaderEvent()
+   в System.Xml.XsdValidatingReader.Read()
+   в System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   в System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   в System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   в System.Xml.XmlDocument.Load(XmlReader reader)
+   в NHibernate.Cfg.Configuration.LoadMappingDocument(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlReader(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(FileInfo xmlFile)
+   в NHibernate.Cfg.Configuration.AddDirectory(DirectoryInfo dir)
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 24
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 17:56:07.8844|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.FKUnmatchingColumnsException: Foreign key (FK318A099B31771C22:Orders [CartId])) must have same number of columns as the referenced primary key (Orders [CartId, Position])
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.SecondPassCompileForeignKeys(Table table, ISet`1 done)
+   в NHibernate.Cfg.Configuration.SecondPassCompile()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 17:56:58.9014|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.FKUnmatchingColumnsException: Foreign key (FK318A099B31771C22:Orders [CartId])) must have same number of columns as the referenced primary key (Orders [CartId, idx])
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.SecondPassCompileForeignKeys(Table table, ISet`1 done)
+   в NHibernate.Cfg.Configuration.SecondPassCompile()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 18:02:08.5931|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.MappingException: Repeated column in mapping for collection: FurnitureStore.Models.Order.Orders column: GoodsId
+   в NHibernate.Mapping.Collection.CheckColumnDuplication(ISet`1 distinctColumns, IEnumerable`1 columns)
+   в NHibernate.Mapping.Collection.CheckColumnDuplication()
+   в NHibernate.Mapping.Collection.Validate(IMapping mapping)
+   в NHibernate.Mapping.IndexedCollection.Validate(IMapping mapping)
+   в NHibernate.Cfg.Configuration.ValidateCollections()
+   в NHibernate.Cfg.Configuration.Validate()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 18:03:00.0270|ERROR|FurnitureStore.Models.FurnitureRepository|NHibernate.FKUnmatchingColumnsException: Foreign key (FK318A099BC2E149B9:Orders [GoodsId])) must have same number of columns as the referenced primary key (Orders [GoodsId, idx])
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.SecondPassCompileForeignKeys(Table table, ISet`1 done)
+   в NHibernate.Cfg.Configuration.SecondPassCompile()
+   в NHibernate.Cfg.Configuration.BuildSessionFactory()
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 25
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.FurnitureRepository.Save(IFurniture furniture) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\FurnitureRepository.cs:строка 33
+2015-12-01 18:23:30.0854|ERROR|FurnitureStore.Models.CartRepository|System.Data.SqlTypes.SqlTypeException: Переполнение SqlDateTime. Должно находиться в пределах от 1/1/1753 12:00:00 AM и 12/31/9999 11:59:59 PM.
+   в System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   в System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   в System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   в System.Data.SqlClient.SqlCommand.ExecuteBatchRPCCommand()
+   в System.Data.SqlClient.SqlCommandSet.ExecuteNonQuery()
+   в NHibernate.AdoNet.SqlClientSqlCommandSet.ExecuteNonQuery()
+   в NHibernate.AdoNet.SqlClientBatchingBatcher.DoExecuteBatch(IDbCommand ps)
+   в NHibernate.AdoNet.AbstractBatcher.ExecuteBatchWithTiming(IDbCommand ps)
+   в NHibernate.AdoNet.AbstractBatcher.ExecuteBatch()
+   в NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   в NHibernate.Engine.ActionQueue.ExecuteActions()
+   в NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+   в NHibernate.Event.Default.DefaultFlushEventListener.OnFlush(FlushEvent event)
+   в NHibernate.Impl.SessionImpl.Flush()
+   в NHibernate.Transaction.AdoTransaction.Commit()
+   в FurnitureStore.Models.CartRepository.Save(Cart Cart) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\CartRepository.cs:строка 28
+2015-12-01 18:43:56.1195|ERROR|FurnitureStore.Models.CartRepository|NHibernate.Exceptions.GenericADOException: could not execute batch command.[SQL: SQL not available] ---> System.Data.SqlClient.SqlException: Incorrect syntax near 'index'. If this is intended as a part of a table hint, A WITH keyword and parenthesis are now required. See SQL Server Books Online for proper syntax.
+Incorrect syntax near 'index'. If this is intended as a part of a table hint, A WITH keyword and parenthesis are now required. See SQL Server Books Online for proper syntax.
+   в System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   в System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   в System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   в System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   в System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   в System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   в System.Data.SqlClient.SqlCommand.ExecuteBatchRPCCommand()
+   в System.Data.SqlClient.SqlCommandSet.ExecuteNonQuery()
+   в NHibernate.AdoNet.SqlClientSqlCommandSet.ExecuteNonQuery()
+   в NHibernate.AdoNet.SqlClientBatchingBatcher.DoExecuteBatch(IDbCommand ps)
+   --- Конец трассировки внутреннего стека исключений ---
+   в NHibernate.AdoNet.SqlClientBatchingBatcher.DoExecuteBatch(IDbCommand ps)
+   в NHibernate.AdoNet.AbstractBatcher.ExecuteBatchWithTiming(IDbCommand ps)
+   в NHibernate.AdoNet.AbstractBatcher.ExecuteBatch()
+   в NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   в NHibernate.Engine.ActionQueue.ExecuteActions()
+   в NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+   в NHibernate.Event.Default.DefaultFlushEventListener.OnFlush(FlushEvent event)
+   в NHibernate.Impl.SessionImpl.Flush()
+   в NHibernate.Transaction.AdoTransaction.Commit()
+   в FurnitureStore.Models.CartRepository.Save(Cart Cart) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\CartRepository.cs:строка 28
+2015-12-01 18:53:54.5537|ERROR|FurnitureStore.Models.CartRepository|System.Data.SqlTypes.SqlTypeException: Переполнение SqlDateTime. Должно находиться в пределах от 1/1/1753 12:00:00 AM и 12/31/9999 11:59:59 PM.
+   в System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   в System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   в System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   в System.Data.SqlClient.SqlCommand.ExecuteBatchRPCCommand()
+   в System.Data.SqlClient.SqlCommandSet.ExecuteNonQuery()
+   в NHibernate.AdoNet.SqlClientSqlCommandSet.ExecuteNonQuery()
+   в NHibernate.AdoNet.SqlClientBatchingBatcher.DoExecuteBatch(IDbCommand ps)
+   в NHibernate.AdoNet.AbstractBatcher.ExecuteBatchWithTiming(IDbCommand ps)
+   в NHibernate.AdoNet.AbstractBatcher.ExecuteBatch()
+   в NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   в NHibernate.Engine.ActionQueue.ExecuteActions()
+   в NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+   в NHibernate.Event.Default.DefaultFlushEventListener.OnFlush(FlushEvent event)
+   в NHibernate.Impl.SessionImpl.Flush()
+   в NHibernate.Transaction.AdoTransaction.Commit()
+   в FurnitureStore.Models.CartRepository.Save(Cart Cart) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\CartRepository.cs:строка 28
+2015-12-01 18:55:22.6748|ERROR|FurnitureStore.Models.CartRepository|System.Data.SqlTypes.SqlTypeException: Переполнение SqlDateTime. Должно находиться в пределах от 1/1/1753 12:00:00 AM и 12/31/9999 11:59:59 PM.
+   в System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   в System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   в System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   в System.Data.SqlClient.SqlCommand.ExecuteBatchRPCCommand()
+   в System.Data.SqlClient.SqlCommandSet.ExecuteNonQuery()
+   в NHibernate.AdoNet.SqlClientSqlCommandSet.ExecuteNonQuery()
+   в NHibernate.AdoNet.SqlClientBatchingBatcher.DoExecuteBatch(IDbCommand ps)
+   в NHibernate.AdoNet.AbstractBatcher.ExecuteBatchWithTiming(IDbCommand ps)
+   в NHibernate.AdoNet.AbstractBatcher.ExecuteBatch()
+   в NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   в NHibernate.Engine.ActionQueue.ExecuteActions()
+   в NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+   в NHibernate.Event.Default.DefaultFlushEventListener.OnFlush(FlushEvent event)
+   в NHibernate.Impl.SessionImpl.Flush()
+   в NHibernate.Transaction.AdoTransaction.Commit()
+   в FurnitureStore.Models.CartRepository.Save(Cart Cart) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\CartRepository.cs:строка 28
+2015-12-01 19:01:59.7865|ERROR|FurnitureStore.Models.CartRepository|NHibernate.MappingException: c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Models\NHibernate\Mappings\Cart.hbm.xml(8,47): XML validation error: Атрибут "nullable" не объявлен. ---> System.Xml.Schema.XmlSchemaValidationException: Атрибут "nullable" не объявлен.
+   --- Конец трассировки внутреннего стека исключений ---
+   в NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   в NHibernate.Cfg.Configuration.ValidationHandler(Object o, ValidationEventArgs args)
+   в System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(XmlSchemaValidationException e, XmlSeverityType severity)
+   в System.Xml.Schema.XmlSchemaValidator.SendValidationEvent(String code, String arg)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateAttribute(String lName, String ns, XmlValueGetter attributeValueGetter, String attributeStringValue, XmlSchemaInfo schemaInfo)
+   в System.Xml.Schema.XmlSchemaValidator.ValidateAttribute(String localName, String namespaceUri, XmlValueGetter attributeValue, XmlSchemaInfo schemaInfo)
+   в System.Xml.XsdValidatingReader.ValidateAttributes()
+   в System.Xml.XsdValidatingReader.ProcessElementEvent()
+   в System.Xml.XsdValidatingReader.ProcessReaderEvent()
+   в System.Xml.XsdValidatingReader.Read()
+   в System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   в System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   в System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   в System.Xml.XmlDocument.Load(XmlReader reader)
+   в NHibernate.Cfg.Configuration.LoadMappingDocument(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlReader(XmlReader hbmReader, String name)
+   в NHibernate.Cfg.Configuration.AddXmlFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(String xmlFile)
+   в NHibernate.Cfg.Configuration.AddFile(FileInfo xmlFile)
+   в NHibernate.Cfg.Configuration.AddDirectory(DirectoryInfo dir)
+   в FurnitureStore.Models.Utils.NHibernateHelper.get_SessionFactory() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 24
+   в FurnitureStore.Models.Utils.NHibernateHelper.OpenSession() в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\Utils\NHibernateHelper.cs:строка 33
+   в FurnitureStore.Models.CartRepository.Save(Cart Cart) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\CartRepository.cs:строка 23
+2015-12-01 19:08:13.0998|ERROR|FurnitureStore.Models.CartRepository|System.Data.SqlTypes.SqlTypeException: Переполнение SqlDateTime. Должно находиться в пределах от 1/1/1753 12:00:00 AM и 12/31/9999 11:59:59 PM.
+   в System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   в System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   в System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   в System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   в System.Data.SqlClient.SqlCommand.ExecuteBatchRPCCommand()
+   в System.Data.SqlClient.SqlCommandSet.ExecuteNonQuery()
+   в NHibernate.AdoNet.SqlClientSqlCommandSet.ExecuteNonQuery()
+   в NHibernate.AdoNet.SqlClientBatchingBatcher.DoExecuteBatch(IDbCommand ps)
+   в NHibernate.AdoNet.AbstractBatcher.ExecuteBatchWithTiming(IDbCommand ps)
+   в NHibernate.AdoNet.AbstractBatcher.ExecuteBatch()
+   в NHibernate.Engine.ActionQueue.ExecuteActions(IList list)
+   в NHibernate.Engine.ActionQueue.ExecuteActions()
+   в NHibernate.Event.Default.AbstractFlushingEventListener.PerformExecutions(IEventSource session)
+   в NHibernate.Event.Default.DefaultFlushEventListener.OnFlush(FlushEvent event)
+   в NHibernate.Impl.SessionImpl.Flush()
+   в NHibernate.Transaction.AdoTransaction.Commit()
+   в FurnitureStore.Models.CartRepository.Save(Cart Cart) в c:\Users\Pavel\Documents\Visual Studio 2013\Projects\FurnitureStore\FurnitureStore\Models\CartRepository.cs:строка 28

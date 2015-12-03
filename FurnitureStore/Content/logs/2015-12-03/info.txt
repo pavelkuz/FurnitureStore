@@ -1,0 +1,570 @@
+2015-12-03 00:19:36.7120|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 00:19:42.6713|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 00:28:55.7560|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 01:50:45.8158|INFO|FurnitureStore.MvcApplication|Application End
+2015-12-03 02:30:55.8627|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 02:31:51.9519|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 02:32:23.9667|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 02:34:28.0188|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 02:37:01.1255|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 02:37:10.7551|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 02:37:49.4453|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 02:38:59.1643|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 02:39:06.0857|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 02:39:09.7619|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 02:39:29.1470|INFO|FurnitureStore.Models.RoleRepository|0eec7d00-b75a-41dc-9d4d-eda326b781f8 | Premium customer | 03.12.2015 0:00:00
+2015-12-03 02:39:29.1710|INFO|FurnitureStore.Models.RoleRepository|DB update was successfull!
+2015-12-03 02:39:29.1710|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 02:39:41.4677|INFO|FurnitureStore.Models.RoleRepository|DB save was successfull!
+2015-12-03 02:39:41.4677|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 02:41:48.2320|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 02:41:49.8421|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 02:41:59.1686|INFO|FurnitureStore.Models.RoleRepository|Role removed successfully!
+2015-12-03 02:41:59.1686|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 02:42:10.0282|INFO|FurnitureStore.Models.RoleRepository|Role removed successfully!
+2015-12-03 02:42:10.0282|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 02:42:24.6061|INFO|FurnitureStore.Models.RoleRepository|DB save was successfull!
+2015-12-03 02:42:24.6111|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 03:25:16.1091|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 03:25:17.7762|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 03:27:50.4880|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 03:27:50.5200|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 03:30:15.9543|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 03:31:04.3100|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 03:39:25.4877|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 03:39:46.4579|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 03:51:52.4064|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 03:59:46.1875|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 03:59:46.2195|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 09:32:23.1306|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 09:47:23.6641|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 09:47:49.0146|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 09:47:49.8766|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 09:48:59.5026|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 09:49:40.4760|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 09:55:44.6968|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 09:58:12.8703|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:00:31.0452|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:05:27.7781|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|test@mail.ru
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|123456
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|Familia
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|Imya
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|Otchestvo
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|bb8e94c7-6533-4e1e-b71a-eadcb68b3e31
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|1447421586765347524
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|HTTP_CACHE_CONTROL:max-age=0
+HTTP_CONNECTION:keep-alive
+HTTP_CONTENT_LENGTH:137
+HTTP_CONTENT_TYPE:application/x-www-form-urlencoded
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip, deflate
+HTTP_ACCEPT_LANGUAGE:ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+HTTP_COOKIE:_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+HTTP_HOST:localhost:53504
+HTTP_REFERER:http://localhost:53504/Home/Register
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+HTTP_ORIGIN:http://localhost:53504
+HTTP_UPGRADE_INSECURE_REQUESTS:1
+
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 137
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+Host: localhost:53504
+Referer: http://localhost:53504/Home/Register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+Origin: http://localhost:53504
+Upgrade-Insecure-Requests: 1
+
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|/LM/W3SVC/4/ROOT
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|137
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|application/x-www-form-urlencoded
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|CGI/1.1
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|off
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|4
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|/LM/W3SVC/4
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|::1
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|/Home/SubmitRegister
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Home\SubmitRegister
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|::1
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|::1
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|53608
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|POST
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|/Home/SubmitRegister
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|localhost
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|53504
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|0
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|HTTP/1.1
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|Microsoft-IIS/10.0
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|/Home/SubmitRegister
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|max-age=0
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|keep-alive
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|137
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|application/x-www-form-urlencoded
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|gzip, deflate
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|localhost:53504
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|http://localhost:53504/Home/Register
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|http://localhost:53504
+2015-12-03 10:05:37.6797|INFO|FurnitureStore.Controllers.HomeController|1
+2015-12-03 10:07:15.0393|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: Email | Value: test@mail.ru
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: Password | Value: 123456
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: LastName | Value: Familia
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: FirstName | Value: Imya
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: MiddleName | Value: Otchestvo
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CategoryID | Value: bb8e94c7-6533-4e1e-b71a-eadcb68b3e31
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: _ym_uid | Value: 1447421586765347524
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: ext-stateGrid | Value: o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: ALL_HTTP | Value: HTTP_CACHE_CONTROL:max-age=0
+HTTP_CONNECTION:keep-alive
+HTTP_CONTENT_LENGTH:137
+HTTP_CONTENT_TYPE:application/x-www-form-urlencoded
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip, deflate
+HTTP_ACCEPT_LANGUAGE:ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+HTTP_COOKIE:_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+HTTP_HOST:localhost:53504
+HTTP_REFERER:http://localhost:53504/Home/Register
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+HTTP_ORIGIN:http://localhost:53504
+HTTP_UPGRADE_INSECURE_REQUESTS:1
+
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: ALL_RAW | Value: Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 137
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+Host: localhost:53504
+Referer: http://localhost:53504/Home/Register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+Origin: http://localhost:53504
+Upgrade-Insecure-Requests: 1
+
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: APPL_MD_PATH | Value: /LM/W3SVC/4/ROOT
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: APPL_PHYSICAL_PATH | Value: c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: AUTH_TYPE | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: AUTH_USER | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: AUTH_PASSWORD | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: LOGON_USER | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: REMOTE_USER | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CERT_COOKIE | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CERT_FLAGS | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CERT_ISSUER | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CERT_KEYSIZE | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CERT_SECRETKEYSIZE | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CERT_SERIALNUMBER | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CERT_SERVER_ISSUER | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CERT_SERVER_SUBJECT | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CERT_SUBJECT | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CONTENT_LENGTH | Value: 137
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: CONTENT_TYPE | Value: application/x-www-form-urlencoded
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: GATEWAY_INTERFACE | Value: CGI/1.1
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTPS | Value: off
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTPS_KEYSIZE | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTPS_SECRETKEYSIZE | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTPS_SERVER_ISSUER | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTPS_SERVER_SUBJECT | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: INSTANCE_ID | Value: 4
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: INSTANCE_META_PATH | Value: /LM/W3SVC/4
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: LOCAL_ADDR | Value: ::1
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: PATH_INFO | Value: /Home/SubmitRegister
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: PATH_TRANSLATED | Value: c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Home\SubmitRegister
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: QUERY_STRING | Value: 
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: REMOTE_ADDR | Value: ::1
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: REMOTE_HOST | Value: ::1
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: REMOTE_PORT | Value: 53645
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: REQUEST_METHOD | Value: POST
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: SCRIPT_NAME | Value: /Home/SubmitRegister
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: SERVER_NAME | Value: localhost
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: SERVER_PORT | Value: 53504
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: SERVER_PORT_SECURE | Value: 0
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: SERVER_PROTOCOL | Value: HTTP/1.1
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: SERVER_SOFTWARE | Value: Microsoft-IIS/10.0
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: URL | Value: /Home/SubmitRegister
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_CACHE_CONTROL | Value: max-age=0
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_CONNECTION | Value: keep-alive
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_CONTENT_LENGTH | Value: 137
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_CONTENT_TYPE | Value: application/x-www-form-urlencoded
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_ACCEPT | Value: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_ACCEPT_ENCODING | Value: gzip, deflate
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_ACCEPT_LANGUAGE | Value: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_COOKIE | Value: _ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_HOST | Value: localhost:53504
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_REFERER | Value: http://localhost:53504/Home/Register
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_USER_AGENT | Value: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_ORIGIN | Value: http://localhost:53504
+2015-12-03 10:07:50.2993|INFO|FurnitureStore.Controllers.HomeController|Key: HTTP_UPGRADE_INSECURE_REQUESTS | Value: 1
+2015-12-03 10:10:19.5378|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:10:38.1309|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:10:56.7220|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:14:27.6410|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:14:40.8958|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 10:14:46.7151|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 10:14:49.5333|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:15:02.8760|INFO|FurnitureStore.Models.RoleRepository|DB save was successfull!
+2015-12-03 10:15:02.8760|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:15:19.2650|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:31:33.1787|INFO|FurnitureStore.MvcApplication|Application End
+2015-12-03 10:31:36.2318|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 10:31:39.2910|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:32:21.7735|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 10:32:23.0765|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:35:18.4766|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 10:35:19.6896|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:35:21.3687|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 10:42:58.0898|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 10:42:59.2069|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 10:43:02.0301|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 10:43:06.8774|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 11:24:35.7647|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|pavel.kuzovatov@gmail.com
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|123Ok
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|Pavel
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|Kuzovatov
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|Yurievich
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|12/01/2015 00:00:00
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|FurnitureStore.Models.Role
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|1447421586765347524
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|HTTP_CONNECTION:keep-alive
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip, deflate, sdch
+HTTP_ACCEPT_LANGUAGE:ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+HTTP_COOKIE:_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+HTTP_HOST:localhost:53504
+HTTP_REFERER:http://localhost:53504/Home/Login
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+HTTP_UPGRADE_INSECURE_REQUESTS:1
+
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+Host: localhost:53504
+Referer: http://localhost:53504/Home/Login
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+Upgrade-Insecure-Requests: 1
+
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|/LM/W3SVC/4/ROOT
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|0
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|CGI/1.1
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|off
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|4
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|/LM/W3SVC/4
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|/Role/Index/8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Role\Index\8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|EMAIL=pavel.kuzovatov%40gmail.com&amp;PASSWORD=123Ok&amp;FIRSTNAME=Pavel&amp;LASTNAME=Kuzovatov&amp;MIDDLENAME=Yurievich&amp;REGISTRATIONDATE=12%2F01%2F2015%2000%3A00%3A00&amp;ROLE=FurnitureStore.Models.Role
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|55768
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|GET
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|/Role/Index/8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|localhost
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|53504
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|0
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|HTTP/1.1
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|Microsoft-IIS/10.0
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|/Role/Index/8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|keep-alive
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|gzip, deflate, sdch
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|localhost:53504
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|http://localhost:53504/Home/Login
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Controllers.RoleController|1
+2015-12-03 11:24:37.7528|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|pavel.kuzovatov@gmail.com
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|123Ok
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|Pavel
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|Kuzovatov
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|Yurievich
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|12/01/2015 00:00:00
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|FurnitureStore.Models.Role
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|1447421586765347524
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|HTTP_CACHE_CONTROL:max-age=0
+HTTP_CONNECTION:keep-alive
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip, deflate, sdch
+HTTP_ACCEPT_LANGUAGE:ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+HTTP_COOKIE:_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+HTTP_HOST:localhost:53504
+HTTP_REFERER:http://localhost:53504/Home/Login
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+HTTP_UPGRADE_INSECURE_REQUESTS:1
+
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|Cache-Control: max-age=0
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+Host: localhost:53504
+Referer: http://localhost:53504/Home/Login
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+Upgrade-Insecure-Requests: 1
+
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|/LM/W3SVC/4/ROOT
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|0
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|CGI/1.1
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|off
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|4
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|/LM/W3SVC/4
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|/Role/Index/8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Role\Index\8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|EMAIL=pavel.kuzovatov%40gmail.com&amp;PASSWORD=123Ok&amp;FIRSTNAME=Pavel&amp;LASTNAME=Kuzovatov&amp;MIDDLENAME=Yurievich&amp;REGISTRATIONDATE=12%2F01%2F2015%2000%3A00%3A00&amp;ROLE=FurnitureStore.Models.Role
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|::1
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|55769
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|GET
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|/Role/Index/8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|localhost
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|53504
+2015-12-03 11:24:46.8563|INFO|FurnitureStore.Controllers.RoleController|0
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|HTTP/1.1
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|Microsoft-IIS/10.0
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|/Role/Index/8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|max-age=0
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|keep-alive
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|gzip, deflate, sdch
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|localhost:53504
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|http://localhost:53504/Home/Login
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Controllers.RoleController|1
+2015-12-03 11:24:46.8633|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 11:27:01.2700|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|EMAIL <-|-> pavel.kuzovatov@gmail.com
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|amp;PASSWORD <-|-> 123Ok
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|amp;FIRSTNAME <-|-> Pavel
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|amp;LASTNAME <-|-> Kuzovatov
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|amp;MIDDLENAME <-|-> Yurievich
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|amp;REGISTRATIONDATE <-|-> 12/01/2015 00:00:00
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|amp;ROLE <-|-> FurnitureStore.Models.Role
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|_ym_uid <-|-> 1447421586765347524
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|ext-stateGrid <-|-> o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|ALL_HTTP <-|-> HTTP_CONNECTION:keep-alive
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip, deflate, sdch
+HTTP_ACCEPT_LANGUAGE:ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+HTTP_COOKIE:_ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+HTTP_HOST:localhost:53504
+HTTP_REFERER:http://localhost:53504/Home/Login
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+HTTP_UPGRADE_INSECURE_REQUESTS:1
+
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|ALL_RAW <-|-> Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+Host: localhost:53504
+Referer: http://localhost:53504/Home/Login
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+Upgrade-Insecure-Requests: 1
+
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|APPL_MD_PATH <-|-> /LM/W3SVC/4/ROOT
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|APPL_PHYSICAL_PATH <-|-> c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|AUTH_TYPE <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|AUTH_USER <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|AUTH_PASSWORD <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|LOGON_USER <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|REMOTE_USER <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|CERT_COOKIE <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|CERT_FLAGS <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|CERT_ISSUER <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|CERT_KEYSIZE <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|CERT_SECRETKEYSIZE <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|CERT_SERIALNUMBER <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|CERT_SERVER_ISSUER <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|CERT_SERVER_SUBJECT <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|CERT_SUBJECT <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|CONTENT_LENGTH <-|-> 0
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|CONTENT_TYPE <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|GATEWAY_INTERFACE <-|-> CGI/1.1
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|HTTPS <-|-> off
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|HTTPS_KEYSIZE <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|HTTPS_SECRETKEYSIZE <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|HTTPS_SERVER_ISSUER <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|HTTPS_SERVER_SUBJECT <-|-> 
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|INSTANCE_ID <-|-> 4
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|INSTANCE_META_PATH <-|-> /LM/W3SVC/4
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|LOCAL_ADDR <-|-> ::1
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|PATH_INFO <-|-> /Role/Index/8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|PATH_TRANSLATED <-|-> c:\users\pavel\documents\visual studio 2013\Projects\FurnitureStore\FurnitureStore\Role\Index\8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|QUERY_STRING <-|-> EMAIL=pavel.kuzovatov%40gmail.com&amp;PASSWORD=123Ok&amp;FIRSTNAME=Pavel&amp;LASTNAME=Kuzovatov&amp;MIDDLENAME=Yurievich&amp;REGISTRATIONDATE=12%2F01%2F2015%2000%3A00%3A00&amp;ROLE=FurnitureStore.Models.Role
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|REMOTE_ADDR <-|-> ::1
+2015-12-03 11:27:02.5941|INFO|FurnitureStore.Controllers.RoleController|REMOTE_HOST <-|-> ::1
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|REMOTE_PORT <-|-> 55787
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|REQUEST_METHOD <-|-> GET
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|SCRIPT_NAME <-|-> /Role/Index/8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|SERVER_NAME <-|-> localhost
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|SERVER_PORT <-|-> 53504
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|SERVER_PORT_SECURE <-|-> 0
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|SERVER_PROTOCOL <-|-> HTTP/1.1
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|SERVER_SOFTWARE <-|-> Microsoft-IIS/10.0
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|URL <-|-> /Role/Index/8f53509b-2249-4948-92b6-a6e97e102266
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|HTTP_CONNECTION <-|-> keep-alive
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|HTTP_ACCEPT <-|-> text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|HTTP_ACCEPT_ENCODING <-|-> gzip, deflate, sdch
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|HTTP_ACCEPT_LANGUAGE <-|-> ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|HTTP_COOKIE <-|-> _ym_uid=1447421586765347524; ext-stateGrid=o%3Acollapsed%3Db%253A0%5Ecolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%255Eo%25253Aid%25253Ds%2525253Ah2%255Eo%25253Aid%25253Ds%2525253Ah3%255Eo%25253Aid%25253Ds%2525253Ah4
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|HTTP_HOST <-|-> localhost:53504
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|HTTP_REFERER <-|-> http://localhost:53504/Home/Login
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|HTTP_USER_AGENT <-|-> Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Controllers.RoleController|HTTP_UPGRADE_INSECURE_REQUESTS <-|-> 1
+2015-12-03 11:27:02.6001|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 11:48:05.6493|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 11:48:31.3998|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 11:48:35.0870|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 11:53:27.2257|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 11:53:27.2357|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 11:53:38.0104|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 11:54:53.5987|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 11:54:53.6087|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 11:59:47.8663|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 11:59:47.8793|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 12:01:08.4479|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 12:01:08.4579|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 12:02:27.0724|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 12:02:27.0824|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 12:02:35.5159|INFO|FurnitureStore.MvcApplication|Application Error
+2015-12-03 12:08:56.5447|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 12:08:56.5547|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 12:09:03.6041|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 12:09:03.6041|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 12:41:58.6521|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 12:41:58.6521|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 12:46:47.1486|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 12:46:47.1586|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 12:51:09.8626|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 12:51:13.8428|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 12:53:08.7914|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 12:53:10.5875|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 12:54:14.4781|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 12:54:14.4891|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 12:55:32.3906|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 12:55:32.4006|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 12:57:12.7253|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 12:57:12.7363|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 13:06:45.8431|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 13:06:45.8531|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 13:07:28.3615|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 13:07:28.3715|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 13:07:29.9536|INFO|FurnitureStore.Models.CartRepository|Unpayed cart successfully have been get!
+2015-12-03 13:09:21.6710|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 13:09:21.6830|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 13:09:23.3011|INFO|FurnitureStore.Models.CartRepository|Unpayed cart successfully have been get!
+2015-12-03 13:09:23.3011|INFO|FurnitureStore.Models.GoodsRepository|Got goods successfully!
+2015-12-03 13:40:39.8195|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 13:40:39.8295|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 13:40:41.6006|INFO|FurnitureStore.Models.CartRepository|Unpayed cart successfully have been get!
+2015-12-03 13:40:41.6026|INFO|FurnitureStore.Models.GoodsRepository|Got goods successfully!
+2015-12-03 14:25:23.4309|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 14:25:23.4419|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 14:25:25.2100|INFO|FurnitureStore.Models.CartRepository|Unpayed cart successfully have been get!
+2015-12-03 14:25:25.2100|INFO|FurnitureStore.Models.GoodsRepository|Got goods successfully!
+2015-12-03 14:25:25.2581|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 14:26:39.0533|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 14:26:39.0643|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 14:26:40.9434|INFO|FurnitureStore.Models.CartRepository|Unpayed cart successfully have been get!
+2015-12-03 14:26:40.9434|INFO|FurnitureStore.Models.GoodsRepository|Got goods successfully!
+2015-12-03 14:26:40.9894|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 14:28:01.2500|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 14:28:01.2600|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 14:28:02.9861|INFO|FurnitureStore.Models.CartRepository|Unpayed cart successfully have been get!
+2015-12-03 14:28:02.9861|INFO|FurnitureStore.Models.GoodsRepository|Got goods successfully!
+2015-12-03 14:28:03.0321|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 14:29:24.6277|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 14:29:24.6277|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 14:29:26.1948|INFO|FurnitureStore.Models.CartRepository|Unpayed cart successfully have been get!
+2015-12-03 14:29:26.1948|INFO|FurnitureStore.Models.GoodsRepository|Got goods successfully!
+2015-12-03 14:29:26.2448|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 14:29:54.0364|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 14:29:54.0474|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 14:29:55.7655|INFO|FurnitureStore.Models.CartRepository|Unpayed cart successfully have been get!
+2015-12-03 14:29:55.7655|INFO|FurnitureStore.Models.GoodsRepository|Got goods successfully!
+2015-12-03 14:30:23.2511|INFO|FurnitureStore.Models.RoleRepository|Get role successfully!
+2015-12-03 14:30:26.2033|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!
+2015-12-03 14:30:31.3336|INFO|FurnitureStore.Models.GoodsRepository|DB goods get successfully!
+2015-12-03 14:30:39.9961|INFO|FurnitureStore.Models.RoleRepository|DB roles get successfully!

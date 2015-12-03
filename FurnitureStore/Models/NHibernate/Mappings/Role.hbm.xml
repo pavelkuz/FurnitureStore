@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="FurnitureStore.Models" assembly="FurnitureStore" default-lazy="false">
+  <class name="Role" table="Roles">
+    <id name="Id" column="Id">
+      <generator class="guid" />
+    </id>
+    <property name="Name" column="Name"  />
+    <property name="AddedDate" column="AddedDate" />
+  </class>
+</hibernate-mapping>

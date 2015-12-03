@@ -1,0 +1,67 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<a href="@Url.Action("Logout", "Home")">Logout</a>
+@*@model IList<FurnitureStore.Models.Role>*@
+@model FurnitureStore.Models.Utils.JsonPresenter
+<body>
+    <div id="create"></div>
+</body>
+<script>
+    var myData = @Html.Raw(Model.GetData())
+    Ext.create('Ext.data.Store', {
+        storeId: 'sampleStore',
+        fields: [
+            { name: 'ID', type: 'string' },
+            { name: 'NAME', type: 'string' },
+            { name: 'AddedDateSerialized', type: 'date' }
+        ],
+        data: myData
+    });
+
+    var roleDom = Ext.getDom('role-grid');
+
+    Ext.create('Ext.grid.Panel', {
+        title: 'Roles',
+        store: Ext.data.StoreManager.lookup('sampleStore'),
+        columns: [
+            { text: 'Role ID', dataIndex: 'ID', flex: 1, visible: false },
+            { text: 'Role name', dataIndex: 'NAME', flex: 1 },
+            { text: 'Added date', dataIndex: 'AddedDateSerialized', xtype: 'datecolumn', format: 'Y-m-d' },
+            {
+                xtype: 'actioncolumn', width: 50,
+                items: [{
+                    icon: '../Content/extjs/icons/edit.png',  // Use a URL in the icon config
+                    tooltip: 'Edit',
+                    triggerEvent: 'cellclick',
+                    handler: function (grid, rowIndex, colIndex) {
+                        var rec = grid.getStore().getAt(rowIndex);
+                        var Id = rec.get('ID');
+                        window.open('@Url.Action("Edit", "Role")' + "?Id=" + Id, "_self")
+                        //alert("Edit " + rec.get('ID'));
+                    }
+                },
+                    {
+                        icon: '../Content/extjs/icons/delete.gif',
+                        tooltip: 'Delete',
+                        handler: function (grid, rowIndex, colIndex) {
+                            var rec = grid.getStore().getAt(rowIndex);
+                            var Id = rec.get('ID');
+                            window.open('@Url.Action("Delete", "Role")' + "?Id=" + Id, "_self")
+                            //alert("Terminate " + rec.get('ID'));
+                        }
+                    }]
+            }
+        ],
+        height: 350,
+        width: 600,
+        renderTo: Ext.getBody(),
+        viewConfig: {
+            stripeRows: true,
+            enableTextSelection: true
+        }
+    });
+</script>
+<a href="@Url.Action("Create", "Role")">Create role</a>
+<a href="@Url.Action("Index", "Goods")">Goods</a>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" namespace="FurnitureStore.Models" assembly="FurnitureStore" default-lazy="false">
+  <class name="Cart" table="Carts">
+    <id name="Id" column="Id" generator="guid"/>
+    <component name="User" class="FurnitureStore.Models.User" >
+      <property name="Id" column="UserId" />
+    </component>
+    <property name="PayDate" column="PayDate" type="System.Nullable`1[[System.DateTime, mscorlib]], mscorlib"/>
+    <property name="IsPayed" column="IsPayed" />
+    <list name="Orders" table="Orders" cascade="all">
+      <key column="CartId" />
+      <index column="Position" />
+      <many-to-many column="GoodsId" class="Goods" />
+    </list>
+  </class>
+</hibernate-mapping>
