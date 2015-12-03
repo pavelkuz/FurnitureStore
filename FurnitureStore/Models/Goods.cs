@@ -18,15 +18,15 @@ namespace FurnitureStore.Models
         protected virtual FurnitureType FurnitureType { get; set; }
 
         //added fro serialization to json
-        public string MATERIAL { get { return Material; } }
-        public string COLOR { get { return Color; } }
-        public string MANUFACTURER { get { return Manufacturer; } }
-        public float LENGTH { get { return Length; } }
-        public float WIDTH { get { return Width; } }
-        public float HEIGHT { get { return Height; } }
-        public Decimal PRICE { get { return Price; } }
-        public string ADDITIONALINFORMATION { get { return AdditionalInformation; } }
-        public FurnitureType FURNITURETYPE { get { return FurnitureType; } }
+        public string MATERIAL { get { return Material; } set { Material = value; } }
+        public string COLOR { get { return Color; } set { Color = value; } }
+        public string MANUFACTURER { get { return Manufacturer; } set { Manufacturer = value; } }
+        public float LENGTH { get { return Length; } set { Length = value; } }
+        public float WIDTH { get { return Width; } set { Width = value; } }
+        public float HEIGHT { get { return Height; } set { Height = value; } }
+        public Decimal PRICE { get { return Price; } set { Price = value; } }
+        public string ADDITIONALINFORMATION { get { return AdditionalInformation; } set { AdditionalInformation = value; } }
+        public FurnitureType FURNITURETYPE { get { return FurnitureType; } set { FurnitureType = value; } }
 
 
 

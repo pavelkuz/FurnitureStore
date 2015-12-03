@@ -13,7 +13,7 @@ namespace FurnitureStore.Models
         //Added for serialization to json
         public string TYPENAME
         {
-            get { return TypeName; }
+            get { return TypeName; } set { TypeName = value; }
         }
 
         public FurnitureType() { }

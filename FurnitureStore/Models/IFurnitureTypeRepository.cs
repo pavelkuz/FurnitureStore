@@ -12,10 +12,10 @@ namespace FurnitureStore.Models
 
         void Save(FurnitureType furnitureType);
 
-        FurnitureType GetFurnitureTypeById();
+        FurnitureType GetFurnitureTypeById(Guid id);
 
-        void RemoveFurnitureTypeById();
+        void RemoveFurnitureTypeById(Guid id);
 
-        void UpdateFurnitureTypeById();
+        void UpdateFurnitureTypeById(FurnitureType furnitureType);
     }
 }
